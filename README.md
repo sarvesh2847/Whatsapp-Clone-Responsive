@@ -5,8 +5,8 @@ A completely Responsive Whatsapp UI App- works on Android, iOS, Web & Desktop! W
 
 
 <p align="center">
-  <img width="600" src="lib/Screenshot 2024-05-02 at 11.27.02 AM.png" alt="Responsive App">
-  <img width="600" src="lib/Screenshot 2024-05-02 at 11.27.26 AM.png" alt="Responsive App">
+  <img width="600" src="null" alt="Responsive App">
+  <img width="600" src="null" alt="Responsive App">
   
 </p>
 
