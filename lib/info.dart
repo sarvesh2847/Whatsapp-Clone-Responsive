@@ -1,6 +1,6 @@
 const info = [
   {
-    'name': 'Rivaan Ranawat',
+    'name': 'Sarvesh Chavan',
     'message': 'Hey, how are you doing?',
     'time': '3:53 pm',
     'profilePic':
@@ -14,7 +14,7 @@ const info = [
         'https://www.socialketchup.in/wp-content/uploads/2020/05/fi-vill-JOHN-DOE.jpg',
   },
   {
-    'name': 'Naman Ranawat',
+    'name': 'Mortal Bang',
     'message': 'Hello, I want to sleep.',
     'time': '1:03 pm',
     'profilePic':
@@ -56,7 +56,7 @@ const info = [
         'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60',
   },
   {
-    'name': 'Sikandar',
+    'name': 'Sikandar Raza',
     'message': 'Lets Code!',
     'time': '4:56 am',
     'profilePic':
